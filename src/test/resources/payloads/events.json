@@ -1,0 +1,16 @@
+{
+  "operation": "Record",
+  "behaviour": "RecordEvidence",
+  "event_attributes": {
+    "arc_display_type": "Safety Conformance1",
+    "Safety Rating": "90",
+    "inspector": "spacetime"
+  },
+
+  "timestamp_declared": "2019-11-27T14:44:19Z",
+  "principal_declared": {
+    "issuer": "idp.synsation.io/1234",
+    "subject": "phil.b",
+    "email": "phil.b@synsation.io"
+  }
+}

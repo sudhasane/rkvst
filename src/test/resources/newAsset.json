@@ -1,0 +1,35 @@
+{
+  "identity": "assets/d3847507-7c4b-4205-93c4-02cd815d4722",
+  "behaviours": [
+    "Builtin",
+    "AssetCreator",
+    "RecordEvidence",
+    "Attachments"
+  ],
+  "attributes": {
+    "arc_attachments": [
+      {
+        "arc_display_name": "arc_primary_image",
+        "arc_hash_alg": "SHA256",
+        "arc_hash_value": "246c316e2cd6971ce5c83a3e61f9880fa6e2f14ae2976ee03500eb282fd03a60",
+        "arc_attachment_identity": "blobs/af91d06c-1d0b-4750-9112-de7723bbde6d"
+      }
+    ],
+    "arc_description": "Traffic flow control light at A603 North East",
+    "arc_display_name": "tcl.ppj.011",
+    "arc_display_type": "Traffic light with violation camera",
+    "arc_firmware_version": "1.0",
+    "arc_home_location_identity": "locations/115340cf-f39e-4d43-a2ee-8017d672c6c6",
+    "arc_serial_number": "vtl-x4-00",
+    "some_custom_attribute": "value"
+  },
+  "confirmation_status": "CONFIRMED",
+  "tracked": "TRACKED",
+  "owner": "0x479eDA09957C6E22467414ade0a1887EEEC6487e",
+  "at_time": "2022-07-17T17:52:09Z",
+  "storage_integrity": "TENANT_STORAGE",
+  "proof_mechanism": "SIMPLE_HASH",
+  "chain_id": "99",
+  "public": false,
+  "tenant_identity": "tenant/90e5e106-1548-4f4c-93bf-cf41a7b52d01"
+}
